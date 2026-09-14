@@ -1,0 +1,38 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments and package metadata
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime logs and process records
+*.log
+*.pid
+nohup.out
+
+# Common generated simulation outputs
+test_trace.dat
+rdoout.dat
+output.dat
+continuity.dat
+n*_ave.dat
+I_a*_m*_s*.dat
+L_total_curr.dat
+R_total_curr.dat
+total_curr.dat
+
+# Archives generated from this repository
+*.zip
+*.tar
+*.tar.gz
+

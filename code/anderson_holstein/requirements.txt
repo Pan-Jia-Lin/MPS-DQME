@@ -1,0 +1,5 @@
+numpy>=1.20
+scipy>=1.7
+
+# Optional: required only when run_correlation=True
+# tensornetwork>=0.4

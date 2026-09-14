@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pid
+*.npz
+*.npy
+pall_*
+rhoall.dat
+output.dat
+rdoout.dat
+*_ave.dat
+*_curr.dat
+continuity.dat
+test_trace.dat
+

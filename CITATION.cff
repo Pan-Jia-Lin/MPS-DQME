@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use MPS-DQME, please cite the associated publication and software release."
+title: "MPS-DQME: Matrix product state formulation of the dissipaton-embedded quantum master equation for open quantum system dynamics"
+type: software
+version: "1.0.0"
+date-released: "2026-09-14"
+authors:
+  - family-names: "Pan"
+    given-names: "Jia-Lin"
+    affiliation: "State Key Laboratory of Precision and Intelligent Chemistry and Department of Chemical Physics, University of Science and Technology of China, Hefei, Anhui 230026, China"
+  - family-names: "Zhang"
+    given-names: "Hao"
+    affiliation: "School of Information Science and Technology and National Engineering Laboratory for Brain-inspired Intelligence Technology and Application, University of Science and Technology of China, Hefei, Anhui 230026, China"
+  - family-names: "Zheng"
+    given-names: "Xiao"
+    affiliation: "Department of Chemistry, Fudan University, Shanghai 200433, China; Hefei National Laboratory, Hefei, Anhui 230088, China"
+  - family-names: "Yan"
+    given-names: "YiJing"
+    affiliation: "Hefei National Research Center for Physical Sciences at the Microscale, University of Science and Technology of China, Hefei, Anhui 230026, China"
+  - family-names: "Wang"
+    given-names: "Yao"
+    affiliation: "Hefei National Research Center for Physical Sciences at the Microscale, University of Science and Technology of China, Hefei, Anhui 230026, China"
+    email: "wy2010@ustc.edu.cn"
+abstract: >-
+  Matrix-product-state implementation of the dissipaton-embedded quantum
+  master equation for non-Markovian open quantum systems.
+keywords:
+  - tensor networks
+  - matrix product states
+  - dissipaton equation of motion
+  - open quantum systems
+  - quantum transport
+
+repository-code: "https://github.com/Pan-Jia-Lin/MPS-DQME"
+
+# After the article is accepted, add its journal and DOI metadata under
+# `preferred-citation`.
