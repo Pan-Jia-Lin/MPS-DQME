@@ -51,3 +51,7 @@ The two implementations retain their original internal version records:
 
 The public repository uses Git tags and GitHub Releases (for example,
 `v1.0.0`) to identify the exact snapshot associated with the manuscript.
+
+## Authors
+
+contact: panjl@mail.ustc.edu.cn
