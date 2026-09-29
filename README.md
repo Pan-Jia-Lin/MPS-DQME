@@ -2,13 +2,6 @@
 
 **Matrix-Product-State Dissipaton-Embedded Quantum Master Equation**
 
-This repository contains the MPS-DQME implementations and numerical data
-associated with the manuscript:
-
-> Jia-Lin Pan, Hao Zhang, Xiao Zheng, YiJing Yan, and Yao Wang,
-> "Matrix product state formulation of the dissipaton-embedded quantum master
-> equation for open quantum system dynamics."
-
 MPS-DQME embeds the dissipaton
 degrees of freedom into a single matrix-product-state representation for the
 non-Markovian dynamics of open quantum systems.
